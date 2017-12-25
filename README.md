@@ -8,3 +8,7 @@ This is a quick scraping of imdb movie list. It is just made for emergency use c
 `pip install beautifulsoup4 scrapy`
 
 `scrapy crawl imdb`
+
+To scrape detailed list use
+
+` scrapy crawl imdblist`
